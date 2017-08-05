@@ -2,7 +2,7 @@
 
 ### Description
 
-
+Transliterates sentence from Tamil to English.
 
 ### Preview
 
